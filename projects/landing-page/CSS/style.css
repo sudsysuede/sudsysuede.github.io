@@ -2,11 +2,12 @@ body {
 
 	background: #f0f0f0;
 
-	h1 {
-		font-size: 96px;
-		}
+}
 
-	h2 {
+h1 {
+		font-size: 96px;
+}
+
+h2 {
 		font-size: 20px
-		}
 }
