@@ -8,4 +8,4 @@ sudsysuede's Personal Website
 
 - [ ] `index.html`
 - [ ] `css/style.css`
-- [v] `images/`
+- [ ] `images/`
