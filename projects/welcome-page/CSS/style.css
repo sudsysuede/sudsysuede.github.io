@@ -6,6 +6,7 @@ body {
 }
 
 h1 {
+	align-items: center;
 	justify-content: center;
 	font-size: 96px
 	color: #484848;
