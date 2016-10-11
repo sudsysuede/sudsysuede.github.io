@@ -1,4 +1,4 @@
-# sudsysuede.gihub.io
+# sudsysuede.github.io
 
 sudsysuede's Personal Website
 
