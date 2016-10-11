@@ -1,4 +1,12 @@
 body{
+	/* 마진 초기화 margin: 0; */
 	margin:0;
+	/* 래딩(Leading) 간격을 패턴으로 배경이미지로 그림 */
 	background: url(../images/leading-24px.png);
+	font-family: "Spoqa Han Sans";
+}
+
+/* 단락 (Paragraph) 디자인 */
+p{
+	margin
 }
