@@ -1,4 +1,14 @@
 body {
 	background-color: f0f0f0;
-	
+	height: 100vh;
+	color: #ffffff;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+h1 {
+	font-weight: 100;
+	letter-spacing: 0.1em
 }
